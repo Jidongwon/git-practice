@@ -7,3 +7,4 @@ function login(username, password) {
 }
 
 console.log('Login module initialized.');
+console.log('Login module ready.');
