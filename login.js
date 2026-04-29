@@ -6,4 +6,4 @@ function login(username, password) {
     return false;
 }
 
-console.log('Login module loaded.');
+console.log('Login module initialized.');
