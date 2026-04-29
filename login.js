@@ -9,3 +9,5 @@ function login(username, password) {
 
 console.log('Login module initialized.');
 console.log('Login module ready.');
+console.log('add console');
+
